@@ -1,2 +1,2 @@
 # berry-docs
-Berry API Documentation
+berry.bg API Documentation
